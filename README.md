@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abioye-Bolaji
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Excel,and Python
-- 💞️ I’m looking to collaborate on Project Management
+- 👀 I’m interested in Machine learning 
+- 🌱 I’m currently learning to develop Machine learning models
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me @abioyebolaji18@gmail.com
 
 <!---
