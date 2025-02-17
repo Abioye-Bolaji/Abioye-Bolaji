@@ -3,7 +3,7 @@
   <img src="clark-tibbs-oqStl2L5oxI-unsplash.jpg" alt="Welcome Banner">
 </p>
 
-<h1 align="center">👋 Bolaji Abioye</h1>
+<h1 align="center">👋 Bolaji Abioye here</h1>
 <p align="center">
   🚀 Machine Learning Enthusiast | Aspiring AI Engineer  
 </p>
@@ -46,4 +46,4 @@
 
 ---
 
-💡 **"Lock in!"** 💪🏾🚀  
+💡 **"Let's Lock in together!"** 💪🏾🚀  
