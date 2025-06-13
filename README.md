@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Bolaji Abioye here</h1>
 <p align="center">
-  🚀 Machine Learning Enthusiast | Aspiring AI Engineer  
+  🚀 AI/ML Engineer | Building cool stuff
 </p>
 
 ---
